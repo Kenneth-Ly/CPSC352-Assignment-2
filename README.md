@@ -1,4 +1,4 @@
-README: Sleeping Teaching Assistant Project
+#README: Sleeping Teaching Assistant Project
 Team Information
 Team Members:
 Name:Kenneth Ly
