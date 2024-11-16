@@ -37,3 +37,6 @@ Run
 
 Team Collaboration and Contribution
 Our team collaborated on this project by dividing the responsibilities based on each member’s strengths and expertise. Each team member reviewed the code, provided feedback, and collaboratively debugged any issues encountered during testing. Regular meetings and code reviews ensured a synchronized and successful project development process.
+
+
+Output Screenshot on bottom of Design Document
