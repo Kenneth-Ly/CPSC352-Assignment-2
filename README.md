@@ -1,7 +1,7 @@
 # README: Sleeping Teaching Assistant Project
-Team Information
-Team Members:
-Name:Kenneth Ly
+## Team Information
+### Team Members:
+Name: Kenneth Ly
 Section Number: 18007
 Email: kennethly@csu.fullerton.edu
 Name: Ethan Nguyen
